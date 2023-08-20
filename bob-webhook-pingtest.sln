@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_", "_", "{D0303DAB-31F8-47
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunction.Tests", "src\AzureFunction.Tests\AzureFunction.Tests.csproj", "{6628B46A-EAF6-482B-B12F-1D8CAA9C2910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{788BFE02-C7DC-48B3-A321-FDE1A4C9D389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788BFE02-C7DC-48B3-A321-FDE1A4C9D389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788BFE02-C7DC-48B3-A321-FDE1A4C9D389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6628B46A-EAF6-482B-B12F-1D8CAA9C2910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6628B46A-EAF6-482B-B12F-1D8CAA9C2910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6628B46A-EAF6-482B-B12F-1D8CAA9C2910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6628B46A-EAF6-482B-B12F-1D8CAA9C2910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

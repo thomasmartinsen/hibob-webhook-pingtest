@@ -1,0 +1,4 @@
+POST http://localhost:7071/api/bob-webhook-pingtest
+Content-Type: application/text
+
+Ping test
